@@ -1,3 +1,7 @@
 This is a demo application showcasing Jersey running on App Engine.
 
 Thanks to http://blogs.sun.com/naresh/entry/running_the_jersey_webapp_on for initial setup.
+
+More documentation on what you can do with Jersey is here:
+
+http://docs.sun.com/app/docs/doc/820-4867/ggnxo?l=en&a=view
